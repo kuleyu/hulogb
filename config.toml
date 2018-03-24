@@ -98,8 +98,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
     owner = "kuleyu"              # Your GitHub ID
     repo = "hulogb"               # The repo to store comments
-    clientId = ""           # Your client ID
-    clientSecret = ""       # Your client secret
+    clientId = "765906184322252918b0"           # Your client ID
+    clientSecret = "5d970568811b743d9b0ffc1120009edc30e373c0"       # Your client secret
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
