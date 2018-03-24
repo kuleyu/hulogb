@@ -1,7 +1,7 @@
 ---
 title: "javascript 字符串操作方法"
 date: 2018-03-23T20:51:49+08:00
-lastmod:
+lastmod: 2018-03-23T20:51:49+08:00
 draft: false
 tags: ["test"]
 categories: ["test"]

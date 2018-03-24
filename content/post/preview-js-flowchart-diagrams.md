@@ -3,7 +3,7 @@ title: "JS Flowchart Diagrams"
 date: 2017-08-30T21:57:50+08:00
 draft: false
 categories: ["Even theme preview"]
-lastmod:
+lastmod: 2017-08-30T21:57:50+08:00
 flowchartDiagrams:
   enable: true
   options: "{

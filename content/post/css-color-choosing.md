@@ -1,14 +1,12 @@
 ---
 title: "Css Color Choosing"
 date: 2018-03-24T00:41:46+08:00
-lastmod: 
+lastmod: 2018-03-24T00:41:46+08:00
 draft: false
 tags: ["Color pick", "css", "sass"]
 categories: ["CSS"]
 author: '<a href="http://v6.robweychert.com" rel="noopener" target="_blank">Rob Weychert</a>'
-
 weight: 10
-
 contentCopyright: '<a href="http://v6.robweychert.com/blog/2018/02/v6-color/" rel="noopener" target="_blank">See origin</a>'
 ---
 
