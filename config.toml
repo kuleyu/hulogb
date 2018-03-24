@@ -121,8 +121,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/img/reward/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    b-stack-overflow = "http://localhost:1313"
-    c-twitter = "http://localhost:1313"
+    b-stack-overflow = "https://stackoverflow.com/"
+    c-twitter = "https://twitter.com/"
     f-google = "https://plus.google.com/"
     g-github = "http://github.com/kuleyu"
     h-weibo = "https://weibo.com/6104677436/"
