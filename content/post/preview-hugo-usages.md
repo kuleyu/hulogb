@@ -9,18 +9,18 @@ hiddenFromHomePage: true
 ---
 
 ### Add Some Content 
-```cmd
+```bash
 add an article [my-first-post.md] to folder [post]
-hugo new post/my-first-post.md
+$ hugo new post/my-first-post.md
 
 add a new menu [about]
-hugo new about.md
+$ hugo new about.md
 ```
 
 
 Edit the newly created content file if you want. Now, start the Hugo server with drafts enabled:
-```
-hugo server -D
+```bash
+$ hugo server -D
 
 Started building sites ...
 Built site for language en:

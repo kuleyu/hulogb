@@ -1,10 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-lastmod: 
+comment: true
 draft: false
-tags: ["", "", ""]
+date: {{ .Date }}
+lastmod: {{ .Date }}
 categories: ["", ""]
+tags: ["", "", ""]
 author: '<a href="https://laozhu.me" rel="noopener" target="_blank">米老朱</a>'
 weight: 10
 contentCopyright: '<a href="#" rel="noopener" target="_blank">See origin</a>'
