@@ -1,6 +1,6 @@
 # 此主题需要将存储文章的文件夹命名为 post ,而不是 posts 。
 
-baseURL = "https://kuleyu-hulogb.netlify.com/"
+baseURL = "https://kuleyu-hugo.netlify.com/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "青河船一"
