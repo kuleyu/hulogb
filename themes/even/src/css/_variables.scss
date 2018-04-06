@@ -5,7 +5,7 @@
 // ========== Theme Color ========== //
 // Config here to change theme color
 // Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
-$theme-color-config: 'Default';
+$theme-color-config: 'Dark Violet';
 
 // Default theme color map
 $theme-color-map: (
@@ -61,7 +61,7 @@ $global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !def
 $global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
 
 // Background color of the site.
-$global-background: $white !default;
+$global-background: $light-gray !default;
 
 // Headings font size of the site.
 $global-headings: (
@@ -319,7 +319,9 @@ $tag-cloud-title-size: 18px !default;
 $tag-cloud-title-border-bottom: 2px solid $theme-color !default;
 
 // Margin of the tag cloud tags link.
-$tag-cloud-tags-link-margin: 5px 10px !default;
+$tag-cloud-tags-link-margin: 3px 6px !default;
+$tag-cloud-tags-link-padding: 3px 6px !default;
+$tag-cloud-tags-link-borer-radius: 3px;
 
 
 // ========== Categories ========== //

@@ -4,10 +4,13 @@
 
 .logo-wrapper {
   float: left;
+  background-color:#34495e;
+  padding: 0 18px;
 
   .logo {
     font-size: $logo-font-size;
     font-family: $logo-font-family;
+    color: #fff!important;
   }
 }
 

@@ -17,7 +17,10 @@
     .category-link {
       display: inline-block;
       position: relative;
-      margin: $categories-tags-link-margin;
+      margin: $tag-cloud-tags-link-margin;
+      padding: $tag-cloud-tags-link-padding;
+      border-radius: $tag-cloud-tags-link-borer-radius;
+      background: $light-gray;
       word-wrap: break-word;
       transition-duration: 0.2s;
       transition-property: transform;

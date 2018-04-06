@@ -5,6 +5,7 @@
 .header {
   @include clearfix; 
   padding: $header-padding;
+  background: $white;
 
   @import '_header/logo';
   @import '_header/menu';
