@@ -15,11 +15,11 @@
 </head>
 <body>
   {{ partial "slideout.html" . }}
-  <div class="container" id="mobile-panel">
-    <header id="header" class="header">
+  <header id="header" class="header">
         {{ partial "header.html" . }}
-    </header>
+  </header>
 
+  <div class="container" id="mobile-panel">
     <main id="main" class="main">
       <div class="content-wrapper">
         <div id="content" class="content">
@@ -29,14 +29,13 @@
       </div>
     </main>
 
-    <footer id="footer" class="footer">
-      {{ partial "footer.html" . }}
-    </footer>
-
     <div class="back-to-top" id="back-to-top">
       <i class="iconfont icon-up"></i>
     </div>
   </div>
+  <footer id="footer" class="footer">
+      {{ partial "footer.html" . }}
+  </footer>
   {{ partial "scripts.html" . }}
   {{ block "footerfiles" . }}{{ end }}
 </body>

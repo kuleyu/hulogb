@@ -5,7 +5,9 @@
 .header {
   @include clearfix; 
   padding: $header-padding;
+  margin-bottom: $header-margin-bottom;
   background: $white;
+  box-shadow: 0 1px 6px rgba(26,26,26,.1);
 
   @import '_header/logo';
   @import '_header/menu';

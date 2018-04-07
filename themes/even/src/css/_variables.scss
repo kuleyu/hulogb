@@ -76,7 +76,8 @@ $global-headings: (
 
 // ========== Header ========== //
 // Padding of the site header.
-$header-padding: 20px 20px !default;
+$header-padding: 8px 16px !default;
+$header-margin-bottom: 8px !default;
 
 // Font family: Chancery
 @font-face {
@@ -92,7 +93,7 @@ $header-padding: 20px 20px !default;
 }
 
 // Font size of the logo.
-$logo-font-size: 48px !default;
+$logo-font-size: 36px !default;
 
 // Font family of the logo.
 $logo-font-family: 'Chancery', cursive, LiSu, sans-serif !default;
@@ -135,7 +136,7 @@ $post-meta-font-color: $dark-gray !default;
 $post-readMore-border-bottom: 1px solid $theme-color !default;
 
 // Margin top of the post footer.
-$post-footer-margin-top: 20px !default;
+$post-footer-margin-top: 8px !default;
 
 // Border top of post footer.
 $post-footer-border-top: 1px solid $light-gray !default;
@@ -152,10 +153,10 @@ $post-nav-font-size: 18px !default;
 $post-toc-width: 200px !default;
 
 // Backgroud color of the post toc.
-$post-toc-backgroud: rgba($deputy-color, 0.6) !default;
+$post-toc-backgroud: $white !default;
 
 // Margin left of the post toc.
-$post-toc-margin-left: $global-body-width - 15px !default;
+$post-toc-margin-left: -236px !default;
 
 // Font size of the post toc title.
 $post-toc-title-size: 20px !default;
@@ -266,7 +267,7 @@ $pagination-font-size: 20px !default;
 
 // ========== Footer ========== //
 // Margin top of the footer.
-$footer-margin-top: 2em !default;
+$footer-margin-top: 0.5em !default;
 
 // Margin left of the social link.
 $social-link-margin-left: 10px !default;
@@ -275,7 +276,7 @@ $social-link-margin-left: 10px !default;
 $social-icon-font-size: 30px !default;
 
 // Margin of the copyright.
-$copyright-margin: 10px 0 !default;
+$copyright-padding: 10px 0 !default;
 
 
 // ========== Archive ========== //

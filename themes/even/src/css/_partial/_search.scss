@@ -1,0 +1,32 @@
+// ==============================
+// Search
+// ==============================
+
+#search-page .search {
+	form {
+		margin: 16px 0;
+
+		.search-query {
+			display: block;
+			border-radius: 2px;
+			width: 200px;
+			margin: 0 auto;
+		}
+	}
+}
+
+#search-results {
+	h3 {
+		text-align:center;
+	}
+
+	[id^="summary-"] {
+		padding-bottom: 8px;
+		border-bottom: solid 1px;		
+	}
+
+	[id^="summary-"]:last-child {
+		border-bottom: none;
+	}
+	
+}

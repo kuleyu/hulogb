@@ -78,6 +78,7 @@ a {
 
 .content-wrapper {
   padding: $global-container-padding;
+  overflow: hidden;
 }
 
 // make video fluid:
