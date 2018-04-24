@@ -2,7 +2,7 @@
   position: absolute;
   width: $post-toc-width;
   max-height: 600px;
-  overflow-y: scroll;
+  overflow-y: auto;
   margin-left: $post-toc-margin-left;
   padding: 10px;
   font-family: $global-serif-font-family;
