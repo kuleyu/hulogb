@@ -8,7 +8,6 @@ categories: ["Front-End", "搬运整理"]
 tags: ["JavaScript","Ajax"]
 author: '<a href="http://blog.poetries.top/" rel="noopener" target="_blank">poetries</a>'
 contentCopyright: '<a href="http://blog.poetries.top/2016/11/26/Ajax-summary" rel="noopener" target="_blank">See origin</a>'
-weight: 10
 ---
 
 

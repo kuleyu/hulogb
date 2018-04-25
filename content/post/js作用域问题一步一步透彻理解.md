@@ -6,7 +6,6 @@ date: 2018-04-01T18:09:34+08:00
 lastmod: 2018-04-01T18:09:34+08:00
 categories: ["JavaScript","学习笔记"]
 tags: ["js","作用域"]
-author: '<a href="#" rel="noopener" target="_blank">kuleyu</a>'
 weight: 10
 ---
 

@@ -5,7 +5,7 @@ abbrlink: 3a977c25
 comment: true
 categories: ["学习笔记"]
 tags: ["JavaScript"]
-weight: 16
+weight: 10
 ---
 
 > 原创，转载请注明出处。
