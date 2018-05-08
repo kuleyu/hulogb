@@ -36,7 +36,8 @@ Brackets 扩展的安装方法有两种：
 > 不想或没办法翻-墙的话，你就只能在 Github 上搜索下载 zip格式 压缩包再安装。漫无目的地一个一个找可能比较麻烦，这个网站可以帮到你 👉 `http://ingo-richter.io/BracketsExtensionTweetBot/` 虽然已经久未更新了。  
 
 下面是我的一些扩展：  
-1. [VSCode Dark][01] 算是用过的最舒服的一个主题了。
+
+- [VSCode Dark][01] 算是用过的最舒服的一个主题了。
 - [Brackets Markdown Preview][02] 提供 `markdow` 文件实时预览功能。一栏编辑，一栏显示。
 - [Beautify][03] 从排版格式上美化你的代码，使之易于阅读。
 - [Indent Guides][04] 在每个标签的起始处与闭合处添加一条辅助线，辅助阅读。
