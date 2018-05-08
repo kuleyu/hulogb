@@ -41,9 +41,10 @@ weight: 10
     console.log("出现的次数是" + max);
 ```
 
+<!--more-->
+
 ### 字符串长度截取
 
-<!--more-->
 ```javascript
 function cutstr(str, len) {
 var temp,

@@ -41,6 +41,8 @@ contentCopyright: '<a href="http://blog.poetries.top/2016/11/26/Ajax-summary" re
 	- 场景 2. 按需取数据
 	- 场景 3. 自动更新页面
 
+<!-- more -->
+
 - `AJAX` 包含以下五个部分：
 `ajax`并非一种新的技术，而是几种原有技术的结合体。它由下列技术组合而成。
   -  使用`CSS`和`XHTML`来表示。
